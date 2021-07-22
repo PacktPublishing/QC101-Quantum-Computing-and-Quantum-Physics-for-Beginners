@@ -1,0 +1,2 @@
+Math Foundation
+The next 11 lessons are a quick overview of the Math you need to understand quantum computing. These topics are usually covered in high-school 12th grade classes.

@@ -1,0 +1,4 @@
+Going Deeper into Quantum Physics
+For the next few lessons we will be covering just enough quantum physics to help you understand how quantum encryption works. This helps us get to the core topic of this course very quickly.
+
+But some of you might prefer to know more about quantum physics before starting on quantum computing. Or, you might be uncomfortable with the fast pace at which quantum physics is covered in this course. If you wish to dive deeper into quantum physics, or if you want a gentler introduction to the physics principles, then look at Appendix A. I have included 14 lessons on "QC151 Quantum Physics for Quantum Computing" in Appendix A. The lessons in Appendix A provide a gentler, yet deeper coverage of the physics of polarized photons.

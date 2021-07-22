@@ -1,0 +1,8 @@
+Reminder
+WAIT !
+
+Did you check the resource files for section 11?
+
+If you haven't, please take a moment to find them in the GitHub resources now.
+
+I will be discussing the sample code in the file QB4.qs over the next few lessons. Having the file on your computer will make it easier for you to follow along.

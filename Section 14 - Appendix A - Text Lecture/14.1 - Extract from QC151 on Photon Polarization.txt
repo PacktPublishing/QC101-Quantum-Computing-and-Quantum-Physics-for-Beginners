@@ -1,0 +1,6 @@
+Extract from QC151 on Photon Polarization
+Appendix A contains 14 lessons from the next course in this series: QC 151 Quantum Physics for Quantum Computing.
+
+This is a more detailed introduction to the physics of how photons behave.
+
+Study the lessons in this appendix if you (1) want a gentle introduction to Quantum Physics, or (2) want to learn more about how photons behave.

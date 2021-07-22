@@ -1,0 +1,10 @@
+Programming Quantum Computers
+At this point we have covered the building blocks that are used to build quantum programs.
+
+But how do you actually put these building blocks together into solutions that people can use?
+
+Unfortunately, quantum algorithms are not as easy to analyze and understand as the classical computer algorithms you have used while programming. Classical programming requires very little math. Mastery of 10th grade high school level math is sufficient for most applications in classical programming.
+
+In contrast, quantum algorithms are designed using advanced math tools. To begin learning about quantum algorithms, you need to master the math covered in QC201.
+
+QC201 discusses the math foundation for quantum algorithms. Each quantum algorithm requires its own specialized math tools, and those you will find explained in courses on quantum algorithms.
